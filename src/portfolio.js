@@ -199,7 +199,7 @@ const bigProjects = {
       footerLink: []
     },
     {
-      image: require("./assets/images/Smart Traffic Control System.jpg"),
+      image: require("./assets/images/SmartTrafficControlSystem.jpg"),
       projectName: "Smart Traffic Control System",
       projectDesc: "Automated traffic light logic utilizing Arduino, C++, and state-machine principles.",
       footerLink: []
