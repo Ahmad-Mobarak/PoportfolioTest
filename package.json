@@ -1,6 +1,6 @@
 {
-  "homepage": "https://github.com/Ahmad-Mobarak/PoportfolioTest",
-  "name": "ahmed-mobarak-portfolio",
+  "homepage": ".",
+  "name": "developerfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
