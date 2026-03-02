@@ -26,7 +26,7 @@ const greeting = {
     "Cyber Security Specialist | Penetration Testing & Cyber-Physical Systems. Securing Critical Infrastructure by bridging the gap between offensive security, network architecture, and embedded IoT systems."
   ),
   resumeLink:
-    process.env.PUBLIC_URL + "/Ahmed Alaa Mobarak_CV.pdf", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1e_1FruudvazIwuYQw__WnY-nKLq0oeS7/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -107,7 +107,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Digital Egypt Pioneers Initiative (DEPI)",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/depi.png"),
       subHeader: "Scholar (Ongoing)",
       duration: "Ongoing",
       desc: "Focused on advanced technology tracks, critical infrastructure, and future-ready digital skills.",
@@ -115,7 +115,7 @@ const educationInfo = {
     },
     {
       schoolName: "National Telecommunication Institute (NTI)",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/nti.jpg"),
       subHeader: "Network Security Trainee",
       duration: "June 2025 – July 2025",
       desc: "Gained hands-on experience in network defense, enterprise architecture, and firewall configurations.",
@@ -123,7 +123,7 @@ const educationInfo = {
     },
     {
       schoolName: "Delta University for Science and Technology",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/logo delta.png"),
       subHeader: "Bachelor of Science in Cyber Security",
       duration: "Expected 2026",
       desc: "",
@@ -199,7 +199,7 @@ const bigProjects = {
       footerLink: []
     },
     {
-      image: require("./assets/images/Image_Elements-of-Smart-Traffic-Management.jpg"),
+      image: require("./assets/images/Smart Traffic Control System.jpg"),
       projectName: "Smart Traffic Control System",
       projectDesc: "Automated traffic light logic utilizing Arduino, C++, and state-machine principles.",
       footerLink: []
@@ -263,7 +263,7 @@ const contactInfo = {
   subtitle:
     "I am actively seeking opportunities in Penetration Testing, Red Teaming, and Network Security. If you are looking to collaborate on malware analysis projects or discuss the future of IoT security, let's talk.",
   number: "",
-  email_address: "contact@example.com"
+  email_address: "ah.alaamobarak@gmail.com"
 };
 
 // Twitter Section
